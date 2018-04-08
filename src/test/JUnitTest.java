@@ -17,7 +17,6 @@ import hospital.Doctor;
 import hospital.Patient;
 
 public class JUnitTest {
-
 	Hospital hospital;
 	Nurse n;
 	Doctor d;

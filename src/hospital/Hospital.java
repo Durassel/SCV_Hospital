@@ -46,6 +46,7 @@ public class Hospital {
 		services.get(1).okToGive();*/
 		//while(true);
 	}
+
 	public Service getService(String nameService) {
 		for(Service service: services)
 		{
